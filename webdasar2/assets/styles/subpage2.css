@@ -1,0 +1,16 @@
+article > p {
+    background-color: yellow;
+}
+a:link {
+    font-weight: bold;
+    color: black;
+}
+a:hover {
+    color: rgb(70, 70, 255);
+}
+a:visited {
+    color: green;
+}
+a:active {
+    color: orange;
+}
